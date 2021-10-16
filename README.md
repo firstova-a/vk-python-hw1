@@ -1,1 +1,7 @@
-# vk-python-hw1
+# VK Python WH1
+
+## Prerequisites
+
+```bash
+pip install -r requirements.txt
+```
